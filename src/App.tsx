@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import Sidebar from './components/Sidebar';
 import TaskInput from './components/TaskInput';
 import TaskList from './components/TaskList';
